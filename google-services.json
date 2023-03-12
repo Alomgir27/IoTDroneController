@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967737329485",
+    "project_id": "dronecontroler-31466",
+    "storage_bucket": "dronecontroler-31466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967737329485:android:1e1bcb1dae342b3d189904",
+        "android_client_info": {
+          "package_name": "com.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967737329485-5idhp88tp4utoosebk76hmr3vpuaktss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQaeLsMDualpS_O_50jE2xshaY8eYsHfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967737329485-5idhp88tp4utoosebk76hmr3vpuaktss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

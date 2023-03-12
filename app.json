@@ -4,9 +4,16 @@
     "slug": "blank",
     "version": "1.0.0",
     "platforms": [
-      "ios",
-      "android",
-      "web"
-    ]
+      "android"
+    ],
+    "android": {
+      "package": "com.alomgir27.blank"
+    },
+    "owner": "alomgir27",
+    "extra": {
+      "eas": {
+        "projectId": "ef037a4b-ef6b-47be-9c50-144aba57526f"
+      }
+    }
   }
 }
